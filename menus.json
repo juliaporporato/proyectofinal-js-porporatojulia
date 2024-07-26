@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nombre": "Menú Vegetariano", "precio": 3500 },
+    { "id": 2, "nombre": "Menú de Pollo", "precio": 4000 },
+    { "id": 3, "nombre": "Menú de Pescado", "precio": 4500 },
+    { "id": 4, "nombre": "Menú de Carne", "precio": 5000 }
+]
